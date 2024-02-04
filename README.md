@@ -1,1 +1,1 @@
-# Time_Table_Generator
+# Automatic_Time_Table_Generator
