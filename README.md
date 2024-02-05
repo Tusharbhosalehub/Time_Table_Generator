@@ -1,2 +1,2 @@
 # Automatic_Time_Table_Generator
-Using Php,html,css
+Using Php,html,css, javascript 
