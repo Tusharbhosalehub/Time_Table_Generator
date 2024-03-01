@@ -29,15 +29,16 @@ if (isset($_GET['generated']) && $_GET['generated'] == "false") {            //i
     <div class="navbar navbar-inverse navbar-fixed-top " id="menu">
         <div class="container">
             <div align="center">
-                <h3 align="center">COMPUTER SCIENCE PROGRAM GENERATOR</h3>
+                <h3 class="Title1">INFORMATION TECHNOLOGY PROGRAM GENERATOR</h3>
+            </div>
+            <div class="item-active">
+            <img class="logo" src="assets/img/logo1.jpeg">
             </div>
         </div>
     </div>
 
     <div class="carousel-inner">
-        <div class="item active">
-            <img src="assets/img/computer.jpg">
-        </div>
+        
 
         </script> <!--akuro -->
         <div align="center" STYLE="margin-top: 30px">
