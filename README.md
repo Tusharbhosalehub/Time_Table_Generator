@@ -1,6 +1,6 @@
 # Automatic_Time_Table_Generator
 
-Using Phphtml,css, .
+Using Php.
 
 
 
