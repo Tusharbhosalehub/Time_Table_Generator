@@ -1,0 +1,17 @@
+insert into semester3 (day) value ("monday");
+insert into semester3 (day) value ("tuesday");
+insert into semester3 (day) value ("wednesday");
+insert into semester3 (day) value ("thursday");
+insert into semester3 (day) value ("friday");
+
+insert into semester5 (day) value ("monday");
+insert into semester5 (day) value ("tuesday");
+insert into semester5 (day) value ("wednesday");
+insert into semester5 (day) value ("thursday");
+insert into semester5 (day) value ("friday");
+
+insert into semester7 (day) value ("monday");
+insert into semester7 (day) value ("tuesday");
+insert into semester7 (day) value ("wednesday");
+insert into semester7 (day) value ("thursday");
+insert into semester7 (day) value ("friday");
