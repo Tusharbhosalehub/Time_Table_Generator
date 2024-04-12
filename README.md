@@ -1,6 +1,8 @@
 # Automatic_Time_Table_Generator
 ## Tools Used
-PHP 
+* PHP
+* HTML
+   
 
 
 
