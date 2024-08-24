@@ -3,6 +3,8 @@
 * PHP
 * HTML
 * CSS
+* Javascript
+  
    
 
 
